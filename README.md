@@ -52,6 +52,11 @@
 
     - Tech Stack = Coroutines, JSoup, kotlinx.serialization, Ktor, ViewModel, Compose
 
+- https://github.com/hi-manshu/ComposePictures
+
+    - This is a project built using Jetpack Compose on UI, Clean architecture, Dagger Hilt, Kotlin Flow, Navigation Components etc.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Firebase Auth, Navigation, LiveData, ViewModel, Compose    
 
 - https://github.com/skydoves/DisneyCompose
 
