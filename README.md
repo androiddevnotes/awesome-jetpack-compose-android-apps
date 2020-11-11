@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/rajandev17/Plasma/
+
+    - An Android Application written using latest Android Jetpack components and best practices, which displays trending movies/TV shows and cast, user can search movies and TV shows and also add them to watchlist.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Room, LiveData, ViewModel, Compose
+
 - https://github.com/iambaljeet/GitReposCompose
 
     - GitReposCompose is an Android application 📱 for showcasing Jetpack Compose for building declarative UI in Android. This demo app uses Github public API for fetching public repositories.
