@@ -40,6 +40,14 @@
 
 ### MVVM
 
+- https://github.com/joreilly/PeopleInSpace
+
+- Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
+
+
+- Tech Stack = Koin, Coroutines, SQLDelight, Accompanist, ViewModel, Compose
+
+
 - https://github.com/rajandev17/Plasma/
 
     - An Android Application written using latest Android Jetpack components and best practices, which displays trending movies/TV shows and cast, user can search movies and TV shows and also add them to watchlist.
