@@ -42,10 +42,10 @@
 
 - https://github.com/joreilly/PeopleInSpace
 
-- Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
+    - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
 
 
-- Tech Stack = Koin, Coroutines, SQLDelight, Accompanist, ViewModel, Compose
+    - Tech Stack = Koin, Coroutines, SQLDelight, Accompanist, ViewModel, Compose
 
 
 - https://github.com/rajandev17/Plasma/
