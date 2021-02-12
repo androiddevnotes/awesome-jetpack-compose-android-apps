@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/39?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/41?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -40,19 +40,24 @@
 
 ### MVVM
 
+- https://github.com/hitherejoe/minimise
+
+    - Minimise is an app for Android & iOS. It's purpose is to help us think more about the purchases we make and rediscover the things that we own.
+
+    - Tech Stack = Dagger Hilt, Testing, Coroutines, Apollo, Navigation, LiveData, ViewModel, Compose
+
 - https://github.com/PatilShreyas/NotyKT
 
     - 📒 NotyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
-    - Tech Stack: Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Jetpack Compose Navigation, Material UI, Retrofit, Moshi.
+
+    - Tech Stack = Backend - Ktor, PostgreSQL; Android = Coroutines, Flow, Navigation Architecture, LiveData, ViewModel, Room DB, DataStore, Jetpack Security, WorkManager, Dagger Hilt DI, Jetpack Compose, Jetpack Compose Navigation, Material UI, Retrofit, Moshi.
 
 
 - https://github.com/joreilly/PeopleInSpace
 
     - Minimal Kotlin Multiplatform project using Jetpack Compose and SwiftUI
 
-
     - Tech Stack = Koin, Coroutines, SQLDelight, Accompanist, ViewModel, Compose
-
 
 - https://github.com/rajandev17/Plasma/
 
