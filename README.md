@@ -42,9 +42,9 @@
 
 - https://github.com/hitanshu-dhawan/McCompose
 
-	- A McDonald’s app built with Jetpack Compose.
+    - A McDonald’s app built with Jetpack Compose.
 
-	- Tech Stack = Coroutines, LiveData, ViewModel, Jetpack Compose, Jetpack Compose Navigation
+    - Tech Stack = Coroutines, LiveData, ViewModel, Jetpack Compose, Jetpack Compose Navigation
 
 - https://github.com/hitherejoe/minimise
 
