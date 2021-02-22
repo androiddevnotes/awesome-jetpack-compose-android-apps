@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/hitanshu-dhawan/McCompose
+
+	- A McDonald’s app built with Jetpack Compose.
+
+	- Tech Stack = Coroutines, LiveData, ViewModel, Jetpack Compose, Jetpack Compose Navigation
+
 - https://github.com/hitherejoe/minimise
 
     - Minimise is an app for Android & iOS. It's purpose is to help us think more about the purchases we make and rediscover the things that we own.
