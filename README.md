@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/DroidKaigi/conference-app-2021
+
+    - The Official App for DroidKaigi 2021
+
+    - Tech Stack = Dagger Hilt, Coroutines & Flows, DataStore, ViewModel, LiveData, Navigation, Browser, Accompanist, Kotlin Multiplatform, Compose
+
 - https://github.com/hitanshu-dhawan/McCompose
 
     - A McDonald’s app built with Jetpack Compose.
