@@ -46,6 +46,12 @@
 
     - Tech Stack = Dagger Hilt, Coroutines & Flows, DataStore, ViewModel, LiveData, Navigation, Browser, Accompanist, Kotlin Multiplatform, Compose
 
+- https://github.com/ahmed7official/Facebook-Timeline-Compose-Android
+
+    - Facebook Timeline in Jetpack Compose
+
+    - Tech Stack = ViewModel, Accompanist Coil Image, Compose
+
 - https://github.com/hitanshu-dhawan/McCompose
 
     - A McDonald’s app built with Jetpack Compose.
