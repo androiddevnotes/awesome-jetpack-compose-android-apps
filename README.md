@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/adityam49/Updoot
+
+    - A reddit client built for android
+
+    - Tech Stack = Dagger Hilt, Coroutines, Testing, Retrofit, Room, ExoPlayer, WorkManager, Data Binding, Navigation, LiveData, ViewModel, Accompanist, Compose
+
 - https://github.com/DroidKaigi/conference-app-2021
 
     - The Official App for DroidKaigi 2021
