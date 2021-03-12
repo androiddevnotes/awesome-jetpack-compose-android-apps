@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/Shabinder/SpotiFlyer
+
+    - Spotify/Gaana/Youtube Music Downloader For Android!
+
+    - Tech Stack = Dagger Hilt, Coroutines + Flow, Retrofit, Room, FFMPEG, LiveData, ViewModel, Accompanist, Compose
+
 - https://github.com/adityam49/Updoot
 
     - A reddit client built for android
