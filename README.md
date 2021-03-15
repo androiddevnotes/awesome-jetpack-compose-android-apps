@@ -44,7 +44,7 @@
 
     - A Breaking Bad app built with Jetpack Compose.
 
-    - Tech Stack = Navigation, Dagger Hilt, Coroutines + Flow, Retrofit, Room, , Glide, ViewModel, Accompanist, Compose
+    - Tech Stack = Navigation, Dagger Hilt, Coroutines + Flow, Retrofit, Room, ViewModel, Accompanist, Compose
 
 - https://github.com/Shabinder/SpotiFlyer
 
