@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/shinhyo/Compose-BreakingBad
+
+    - A Breaking Bad app built with Jetpack Compose.
+
+    - Tech Stack = Navigation, Dagger Hilt, Coroutines + Flow, Retrofit, Room, , Glide, ViewModel, Accompanist, Compose
+
 - https://github.com/Shabinder/SpotiFlyer
 
     - Spotify/Gaana/Youtube Music Downloader For Android!
