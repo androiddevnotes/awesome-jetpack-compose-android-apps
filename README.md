@@ -309,6 +309,10 @@
     - Teamscope is a form building and filling application built with Jetpack Compose.
     
     - Tech Stack - Firestore, Firebase Auth, Navigation, ViewModel, Compose
+ 
+- https://github.com/jiangdashao/ComposeDiary
+    - A Diary app built with Jetpack Compose
+    - Tech Stack - Coroutines, Accompanist, ViewModel, Compose, Navigation, Room, LiveData, ViewModel
 
 ### MVI
 
