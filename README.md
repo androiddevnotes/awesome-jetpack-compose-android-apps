@@ -50,7 +50,7 @@
 
     - Podcast App made with Jetpack Compose.
 
-    - Tech Stack = Dagger Hilt, Retrofit, ExoPlayer, Navigation, DataStore ViewModel, Compose 
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, ExoPlayer, Navigation, DataStore ViewModel, Compose 
 
 - https://github.com/Plastix/Buzz
 
