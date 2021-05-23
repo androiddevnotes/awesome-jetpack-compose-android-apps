@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/53?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
+  <a href="#"><img alt="Awesome Android Kotlin Apps Count badge" src="https://badgen.net/badge/Apps/55?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/count.svg&color=0984e3"/></a>
   <a href="#"><img alt="Android Language Badge" src="https://badgen.net/badge/OS/Android?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/android.svg&color=3ddc84"/></a>
   <a href="#"><img alt="Kotlin Language Badge" src="https://badgen.net/badge/language/Kotlin?icon=https://raw.githubusercontent.com/androiddevnotes/awesome-jetpack-compose-android-apps/master/assets/kotlin.svg&color=f18e33"/></a>
   <a href="https://github.com/androiddevnotes"><img alt="androiddevnotes GitHub badge" src="https://badgen.net/badge/GitHub/androiddevnotes?icon=github&color=24292e"/></a>
@@ -40,11 +40,23 @@
 
 ### MVVM
 
+- https://github.com/zedlabs/WallPortal
+
+    - Native Android wallpaper application written in Kotlin using Jetpack Compose
+
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Room, Paging, Navigation, LiveData, ViewModel, Compose
+
+- https://github.com/fabirt/podcast-app
+
+    - Podcast App made with Jetpack Compose.
+
+    - Tech Stack = Dagger Hilt, Retrofit, ExoPlayer, Navigation, DataStore ViewModel, Compose 
+
 - https://github.com/Plastix/Buzz
 
     - Buzz, a Spelling bee App in Jetpack Compose. With 7 letters displayed in hexagonal cells, the App's concept is to spell the greatest number of words correctly.
 
-    - Tech Stack = Hilt, Coroutines, OkHttp, Room, SQLDelight, LiveData, ViewModel, Compose
+    - Tech Stack = Dagger Hilt, Coroutines, OkHttp, Room, SQLDelight, LiveData, ViewModel, Compose
 
 - https://github.com/EugeneTheDev/TaigaMobile
 
