@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/keygenqt/android-GitHubViewer
+
+    - Implementation of the application using the latest Android Tech Stack and the [GitHub REST API](https://docs.github.com/en/rest).
+
+    - Tech Stack = Dagger Hilt, Coroutines, Retrofit, Room, Paging, Navigation, Flow, ViewModel, Compose, Accompanist, Security, Serialization
+
 - https://github.com/zedlabs/WallPortal
 
     - Native Android wallpaper application written in Kotlin using Jetpack Compose
