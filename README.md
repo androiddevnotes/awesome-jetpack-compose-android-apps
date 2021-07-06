@@ -339,6 +339,12 @@
 
 ### Other
 
+- https://github.com/prafullmishra/JetComposer
+
+    - Collection of UIs and Animations built with Jetpack Compose for Android
+
+    - Tech Stack = Compose
+
 - https://github.com/vipulasri/JetInstagram
 
     - JetInstagram is an Instagram clone app built with Jetpack Compose.
