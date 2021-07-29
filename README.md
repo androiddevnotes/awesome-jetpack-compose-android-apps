@@ -327,6 +327,13 @@
     - Teamscope is a form building and filling application built with Jetpack Compose.
     
     - Tech Stack - Firestore, Firebase Auth, Navigation, ViewModel, Compose
+    
+- https://github.com/a914-gowtham/RickNMortyCompose
+
+    - A Jetpack compose android app based on Rick and Morty Graphql.
+    
+    - Tech Stack - Hilt/Koin(branch), Apollo graphql android, Paging, Coroutines, Navigation, ViewModel, CI(Detekt and Spotless)
+    
 
 ### MVI
 
