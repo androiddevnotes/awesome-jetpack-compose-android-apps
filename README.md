@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/FunkyMuse/Aurora
+
+    - Non-official Library Genesis mobile client.
+
+    - Dagger Hilt, Coroutines + Flow, ViewModel, Navigation, Room, Retrofit, Paging3, Compose
+
 - https://github.com/keygenqt/android-GitHubViewer
 
     - Implementation of the application using the latest Android Tech Stack and the [GitHub REST API](https://docs.github.com/en/rest).
