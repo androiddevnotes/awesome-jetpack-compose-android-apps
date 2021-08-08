@@ -339,6 +339,12 @@
     - A Jetpack compose android app based on Rick and Morty Graphql.
     
     - Tech Stack - Hilt/Koin(branch), Apollo graphql android, Paging, Coroutines, Navigation, ViewModel, CI(Detekt and Spotless)
+
+- https://github.com/sunny52525/JetSpotify
+
+    - It's a Spotify App made in Jetpack Compose having Spotify Android UI and functionality using Spotify SDK and web API.
+    
+    - Tech Stack - Coroutines, Retrofit, Accompanist, ViewModel, Compose, Hilt, Compose Navigation, Datastore, Spotify SDK
     
 
 ### MVI
