@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/keygenqt/android-DemoCompose
+
+    - Demo Rive Gauche
+
+    - Tech Stack = Gradle kts, Startup, Retrofit, Firebase, Hilt, Compose, Accompanist, Lottie, Coil, Paging3, Room, Flow, Navigation
+
 - https://github.com/FunkyMuse/Aurora
 
     - Non-official Library Genesis mobile client.
