@@ -352,6 +352,11 @@
     
     - Tech Stack - Coroutines, Retrofit, Accompanist, ViewModel, Compose, Hilt, Compose Navigation, Datastore, Spotify SDK
     
+- https://github.com/kasem-sm/RocketXDelight-Playground
+
+    - RocketXDelight is a native Android application built with modern libraries including Jetpack Compose.
+    
+    - Tech Stack = Ktor, SqlDelight, Dagger Hilt, Coil, Scaffold, Accompanist, Compose Navigation
 
 ### MVI
 
