@@ -358,6 +358,12 @@
     
     - Tech Stack = Ktor, SqlDelight, Dagger Hilt, Coil, Scaffold, Accompanist, Compose Navigation
 
+- https://github.com/wisnukurniawan/Compose-ToDo
+
+    - Compose ToDo is a iOS reminder app clone built with Jetpack Compose.
+    
+    - Tech Stack = Room, DataStore, Dagger Hilt, Accompanist, Compose Navigation
+
 ### MVI
 
 - https://github.com/vipulasri/JetDelivery
