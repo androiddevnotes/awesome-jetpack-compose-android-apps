@@ -437,7 +437,13 @@
     - Button with text, right and left icon.
     - Different types of state makes it easy to manage button. (Idle, Loading, Success, Failure)
     - Fully customized button (Corner radius, background, colors, animation speed etc.)
+    
     - Customize button loading animation with your logo and special animation effect.
+    
+- https://github.com/JetBrains/compose-jb
+    - Jetpack Compose for *Desktop and Web*, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+
+    - Tech Stack = Compose Multiplatform
 
 ## :books: Tech Stack/Libraries
 
