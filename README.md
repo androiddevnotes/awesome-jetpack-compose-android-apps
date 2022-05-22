@@ -357,6 +357,12 @@
     - RocketXDelight is a native Android application built with modern libraries including Jetpack Compose.
     
     - Tech Stack = Ktor, SqlDelight, Dagger Hilt, Coil, Scaffold, Accompanist, Compose Navigation
+    
+- https://github.com/AnkitSuda/Rebound
+
+    - Rebound is a Beautiful and feature rich workout log app.
+    
+    - Tech Stack - Compose, Coroutines, Dagger Hilt, Compose Navigation, Room, DataStore, Flow, LiveData, ViewModel, Accompanist
 
 ### MVI
 
