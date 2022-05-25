@@ -378,6 +378,11 @@
 
     - Tech Stack = Koin, Coroutines, Room, workflow, LiveData, ViewModel, Compose
 
+- https://github.com/savvasdalkitsis/uhuruphotos-android/
+
+    - 🖼️ [UhuruPhotos](https://github.com/savvasdalkitsis/uhuruphotos-android/) is an Android client for [LibrePhotos](https://github.com/LibrePhotos/librephotos/) written using the latest Android technologies, like Jetpack Compose, SQLDelight, Coroutines etc using an MVI architecture.
+
+    - It borrows a lot of ideas from Google Photos and aims to become a full featured photo album replacement, including features like offline support, backup and sync etc.
 
 ### Other
 
