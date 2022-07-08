@@ -416,6 +416,10 @@
     - A clone of Snapp, A ride-handling app using Jetpack Compose, Showcasing various usages of Google Maps, Animations, etc combined with Compose
 
     - Tech Stack = Google Maps, Compose
+    
+- https://github.com/IReaderorg/IReader
+    - Free novel reader.
+    - Tech Stack = Coroutine, Room, Ktor, Compose, Hilt, Multi-Module
 
 - https://github.com/zsoltk/compose-pokedex
 
