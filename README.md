@@ -384,6 +384,12 @@
 
     - It borrows a lot of ideas from Google Photos and aims to become a full featured photo album replacement, including features like offline support, backup and sync etc.
 
+- https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook
+
+  - A Collection of major Jetpack compose UI components which are commonly used.
+
+  - Tech Stack = Coroutines, Retrofit, Accompanist, LiveData, ViewModel, Compose
+  
 ### Other
 
 - https://github.com/prafullmishra/JetComposer
