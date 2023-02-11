@@ -39,6 +39,12 @@
 ## :art: Pattern
 
 ### MVVM
+- https://github.com/akhilesh0707/Easy-Note
+
+    - **Easy Note:** Notes app using JetPack Compose and MVVM with a clean architecture approach. (List of Notes,Add Edit Delete Notes, Light/Dark theme, Custom font.)
+
+    - Tech Stack = Dagger Hilt, Coroutines, Compose, Room, Navigation, Flow, ViewModel, Accompanist, etc.
+
 
 - https://github.com/keygenqt/android-DemoCompose
 
