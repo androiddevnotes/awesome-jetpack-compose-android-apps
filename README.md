@@ -363,6 +363,12 @@
     - Rebound is a Beautiful and feature rich workout log app.
     
     - Tech Stack - Compose, Coroutines, Dagger Hilt, Compose Navigation, Room, DataStore, Flow, LiveData, ViewModel, Accompanist
+ 
+- https://github.com/shorthouse/CoinWatch
+   
+    - CoinWatch is a cryptocurrency app providing real-time coin prices, price histories, and market data 📈
+    
+    - Tech Stack = Compose, Retrofit, Coil, Coroutines, Flow, Hilt, Room, ViewModel, Datastore
 
 ### MVI
 
