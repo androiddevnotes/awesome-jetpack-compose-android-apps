@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/jordan-jakisa/Chapterly
+  
+    - A free book discovery app built using Jetpack Compose, Clean Architecture
+      
+    - Tech Stack = Kotlin, Coroutines, Firebase, Dagger Hilt, Coil, WorkManager
+       
 - https://github.com/keygenqt/android-DemoCompose
 
     - Demo Rive Gauche
