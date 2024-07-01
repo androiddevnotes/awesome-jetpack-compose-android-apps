@@ -40,6 +40,12 @@
 
 ### MVVM
 
+- https://github.com/Yugyd/quiz-platform
+
+    - Quiz Platform is a Open Source knowledge testing platform for Android based on Jetpack Compose and Google solutions.
+
+    - Tech Stack = Kotlin, MVVM (Google), multi-module, Compose, Material 3, Jetpack Navigation, Coroutines, Flow, Hilt, Room, Coil, Firebase
+
 - https://github.com/keygenqt/android-DemoCompose
 
     - Demo Rive Gauche
