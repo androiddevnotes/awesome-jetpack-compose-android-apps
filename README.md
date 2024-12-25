@@ -40,6 +40,13 @@
 
 ### MVVM
 
+- https://github.com/navneet851/spotify-clone-jetpack-compose
+
+  - Online Music Streaming App
+
+  - Tech Stack = Gradle kts, Jetpack Compose, view model, Glide, Exo player, Shared Preference, Coroutines + Flow, Navigation
+
+
 - https://github.com/keygenqt/android-DemoCompose
 
     - Demo Rive Gauche
