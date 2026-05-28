@@ -364,6 +364,12 @@
     
     - Tech Stack - Compose, Coroutines, Dagger Hilt, Compose Navigation, Room, DataStore, Flow, LiveData, ViewModel, Accompanist
 
+- https://github.com/ankurCES/project_mythara
+
+    - Open-source local-first agentic AI OS layer for Android. Runs an agent loop with 65+ on-device tools (calls, SMS, calendar, Termux, face recognition, plan executor, skill suggester) + on-device personality analysis from your real chats. Multi-skin theme engine + Music Mode.
+
+    - Tech Stack = Dagger Hilt, Coroutines, Flow, ViewModel, Compose, Room, DataStore, CameraX, ML Kit, TFLite, Accessibility, WorkManager, Navigation
+
 ### MVI
 
 - https://github.com/vipulasri/JetDelivery
