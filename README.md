@@ -364,6 +364,12 @@
     
     - Tech Stack - Compose, Coroutines, Dagger Hilt, Compose Navigation, Room, DataStore, Flow, LiveData, ViewModel, Accompanist
 
+- https://github.com/moondrop12138/wenyan
+
+    - Wenyan (温言): a private relationship-decision assistant powered by your own LLM API keys (BYOK) - four-section structured analysis (empathy, facts, advice, actions), screenshot analysis, offline 40-doc knowledge base, crisis referral, liquid-glass UI with light/dark themes.
+
+    - Tech Stack - Kotlin, Jetpack Compose, Material3, Coroutines, Flow, StateFlow, ViewModel, Room, DataStore, OkHttp + SSE, AES-GCM Keystore encryption
+
 ### MVI
 
 - https://github.com/vipulasri/JetDelivery
