@@ -364,6 +364,12 @@
     
     - Tech Stack - Compose, Coroutines, Dagger Hilt, Compose Navigation, Room, DataStore, Flow, LiveData, ViewModel, Accompanist
 
+- https://github.com/nikosavola/AnkiDroid-WearOS
+
+    - Wear OS companion for AnkiDroid: see what is due and grade cards from the watch, offline.
+
+    - Tech Stack - Compose, Wear Compose, Navigation 3, Coroutines + Flow, WorkManager, UniFFI (Rust core), SQLite
+
 ### MVI
 
 - https://github.com/vipulasri/JetDelivery
