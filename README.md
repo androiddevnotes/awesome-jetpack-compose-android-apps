@@ -364,6 +364,12 @@
     
     - Tech Stack - Compose, Coroutines, Dagger Hilt, Compose Navigation, Room, DataStore, Flow, LiveData, ViewModel, Accompanist
 
+- https://github.com/msbelaid/PlugBrain
+
+    - Open source app blocker that asks a math question before you keep using a distracting app, harder the more you use it.
+
+    - Tech Stack - Compose, Material 3, Koin, Coroutines + Flow, DataStore, ViewModel, Multi-module, Paparazzi
+
 ### MVI
 
 - https://github.com/vipulasri/JetDelivery
